@@ -2,6 +2,9 @@
 # information to generate the "Research Showcase"
 
 papers:
+  - title: Multi-fidelity symbolic regression emulator for Lyman alpha forest 1D power spectrum 
+  - authors:
+      - Aidan Behmer (1)
   - title: Discovering parametrizations of implied volatility with symbolic regression
     authors:
       - Martin Keller-Ressel (1,2)
